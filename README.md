@@ -1,8 +1,13 @@
+# Image Segmentation using k-means cluster method in OpenCV
+
 ### Requirement
 ```
+Ubuntu 20.04
+ROS 2 Foxy
 Python 3.8
 Setuptools 
-Opencv-Pythons
+OpenCV-Pythons
+
 A webcam
 ```
 
