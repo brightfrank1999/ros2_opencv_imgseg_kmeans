@@ -25,7 +25,7 @@ colcon build --packages-select ros2foxy_opencv
 source ./install/setup.bash
 ```
 
-### Launch the node 
+### Run the nodes 
 ```
 ros2 run ros2_opencv
 
@@ -34,6 +34,9 @@ source /opt/ros/foxy/setup.bash
 source ./install/setup.bash 
 ros2 run ros2_opencv_imgseg_kmeans img_subscriber
 ```
+
+### Original and segmented frames
+![Alt text](/posts/path/to/img.jpg "Optional title")
 
 ### References
 https://docs.opencv.org/3.4/d1/d5c/tutorial_py_kmeans_opencv.html
