@@ -36,7 +36,7 @@ ros2 run ros2_opencv_imgseg_kmeans img_subscriber
 ```
 
 ### Original and segmented frames
-![Alt text](/posts/path/to/img.jpg "Optional title")
+![Alt text](https://github.com/brightfrank1999/ros2_opencv_imgseg_kmeans/blob/main/img/kmeans_imgseg "Optional title")
 
 ### References
 https://docs.opencv.org/3.4/d1/d5c/tutorial_py_kmeans_opencv.html
