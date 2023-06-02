@@ -1,4 +1,4 @@
-# Image Segmentation using k-means cluster method in OpenCV
+# Image Segmentation using k-means cluster method in OpenCV 
 
 ### Requirement
 ```
