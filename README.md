@@ -12,7 +12,7 @@ A webcam
 ```
 ### Check the camera information
 ```
-
+v4l2-ctl --all
 ```
 
 ### Clone the package and build the node
@@ -27,7 +27,7 @@ source ./install/setup.bash
 
 ### Run the nodes 
 ```
-ros2 run ros2_opencv
+ros2 run ros2_opencv_imgseg_kmeans img_publisher
 
 # Open a new terminal
 source /opt/ros/foxy/setup.bash
