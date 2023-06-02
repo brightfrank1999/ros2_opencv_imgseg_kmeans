@@ -18,10 +18,10 @@ A webcam
 ### Clone the package and build the node
 ```
 cd /path/to/ros/workspace/src
-git clone 
+git clone https://github.com/brightfrank1999/ros2_opencv_imgseg_kmeans.git
 
 cd /path/to/workspace
-colcon build --packages-select ros2foxy_opencv
+colcon build --packages-select ros2_opencv_imgseg_kmeans
 source ./install/setup.bash
 ```
 
