@@ -30,5 +30,4 @@ source ./install/setup.bash
 ```
 
 ### References
-```
-
+https://medium.com/towardssingularity/k-means-clustering-for-image-segmentation-using-opencv-in-python-17178ce3d6f3
