@@ -15,8 +15,10 @@ A webcam
 v4l2-ctl --all
 ```
 
-### Clone the package and build the node
+### Clone the package and build nodes
 ```
+# Open a terminal
+source /opt/ros/foxy/setup.bash
 cd /path/to/ros/workspace/src
 git clone https://github.com/brightfrank1999/ros2_opencv_imgseg_kmeans.git
 
