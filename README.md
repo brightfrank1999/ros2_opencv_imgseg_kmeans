@@ -12,11 +12,11 @@ A webcam
 ```
 ### Check the camera information
 ```
+
 ```
 
 ### Clone the package and build the node
 ```
-
 cd /path/to/ros/workspace/src
 git clone 
 
@@ -27,7 +27,15 @@ source ./install/setup.bash
 
 ### Launch the node 
 ```
+ros2 run ros2_opencv
+
+# Open a new terminal
+source /opt/ros/foxy/setup.bash
+source ./install/setup.bash 
+ros2 run ros2_opencv_imgseg_kmeans img_subscriber
 ```
 
 ### References
+https://docs.opencv.org/3.4/d1/d5c/tutorial_py_kmeans_opencv.html
 https://medium.com/towardssingularity/k-means-clustering-for-image-segmentation-using-opencv-in-python-17178ce3d6f3
+https://docs.opencv.org/3.4/d1/d5c/tutorial_py_kmeans_opencv.html
