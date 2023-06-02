@@ -1,4 +1,4 @@
-# Image Segmentation using k-means cluster of OpenCV  ROS 2
+#-means clustering for image segmentation using OpenCV in ROS 2
 
 ### Requirement
 ```
