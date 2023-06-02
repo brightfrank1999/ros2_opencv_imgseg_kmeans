@@ -35,7 +35,7 @@ source ./install/setup.bash
 ros2 run ros2_opencv_imgseg_kmeans img_subscriber
 ```
 
-### Original and segmented frames
+### An orignal frame and a segmented frame
 ![Alt text](https://github.com/brightfrank1999/ros2_opencv_imgseg_kmeans/blob/main/img/kmeans_imgseg "Optional title")
 
 ### References
